@@ -78,6 +78,11 @@ main {
     font-weight: 600;
 }
 
+.content_date {
+    font-size: 1.4rem;
+    line-height: 21px;
+}
+
 .content_title {
     font-weight: bold;
     font-size: 2.4rem;
